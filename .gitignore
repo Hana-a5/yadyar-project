@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Dataset (ZIP file)
+texts.zip
