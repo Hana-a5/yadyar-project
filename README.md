@@ -41,11 +41,11 @@ All plots are saved in the `phase1_outputs/` folder:
 ---
 
 ## How to Run
-1. Make sure `texts.zip` is in the project root.
-2. Install dependencies:
+1. Download OneStopEnglishCorpus from:
+(https://github.com/nishkalavallabhi/OneStopEnglishCorpus/tree/master)
+2. Extract texts.zip
+3. Put texts.zip in the project root
+4. Install dependencies:
    pip install -r requirements.txt
-   Run the script:
-3. Run the script
-   python phase1.py
-4. All outputs will be saved in the phase1_outputs/ folder.
-
+5. Run:
+   python baseline.py
